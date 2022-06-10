@@ -1,5 +1,5 @@
 # pdf-img-convert.js
-**A pure javascript package to convert a PDF into images**
+**A pure javascript package to convert a PDF into images (fork of ol-th/pdf-img-convert)**
 
 **This package is powered mainly by Mozilla's [PDF.js](https://github.com/mozilla/pdf.js)**
 
@@ -13,7 +13,7 @@ This solution solely uses javascript arrays, cleaning up the pipeline significan
 ## Installation
 
 ```bash
-npm install pdf-img-convert
+npm install pdf-img-convert-fonts-fix
 ```
 
 ## Usage

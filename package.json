@@ -1,7 +1,7 @@
 {
-  "name": "pdf-img-convert",
+  "name": "pdf-img-convert-fonts-fix",
   "version": "1.0.4-beta.0",
-  "description": "A simple module to convert PDF files into image buffers (without filesystem usage)",
+  "description": "(fork) A simple module to convert PDF files into image buffers (without filesystem usage)",
   "main": "pdf-img-convert.js",
   "dependencies": {
     "canvas": "^2.6.1",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/olliet88/pdf-img-convert.js.git"
+    "url": "git+https://github.com/stepansib/pdf-img-convert.js.git"
   },
   "keywords": [
     "pdf",
@@ -24,10 +24,10 @@
     "png",
     "convert"
   ],
-  "author": "Oliver Thwaites",
+  "author": "Stepan Yudin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/olliet88/pdf-img-convert.js/issues"
+    "url": "https://github.com/stepansib/pdf-img-convert.js/issues"
   },
-  "homepage": "https://github.com/olliet88/pdf-img-convert.js#readme"
+  "homepage": "https://github.com/stepansib/pdf-img-convert.js#readme"
 }
