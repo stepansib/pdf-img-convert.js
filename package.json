@@ -1,6 +1,6 @@
 {
   "name": "pdf-img-convert-fonts-fix",
-  "version": "1.0.4-beta.0",
+  "version": "1.0.4-beta.pmtool",
   "description": "(fork) A simple module to convert PDF files into image buffers (without filesystem usage)",
   "main": "pdf-img-convert.js",
   "dependencies": {
