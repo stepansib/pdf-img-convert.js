@@ -104,3 +104,6 @@ dist
 .tern-port
 
 examples/outputImages/*.png
+
+.idea
+.DS_Store
