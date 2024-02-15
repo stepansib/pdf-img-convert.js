@@ -1,6 +1,6 @@
 {
   "name": "pdf-img-convert",
-  "version": "1.2.1",
+  "version": "1.2.1.pmtool",
   "description": "A simple module to convert PDF files into image buffers (without filesystem usage)",
   "main": "pdf-img-convert.js",
   "types": "pdf-img-convert.d.ts",
@@ -28,7 +28,7 @@
     "png",
     "convert"
   ],
-  "author": "Oliver Thwaites",
+  "author": "Stepan Yudin",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ol-th/pdf-img-convert.js/issues"
